@@ -1,4 +1,4 @@
-# 82% Jurassic Kernbommen Funda
+# Jurassic Kernbommen Funda
 
 Interessante observatie over deze [pixel-animatie van “This is America”](https://twitter.com/candlestickem/status/1014700050113589248) die met software uit 1989 is gemaakt: “[Why the hell did computer graphics in 1989 not look as good as this](https://twitter.com/denvercoder/status/1014922049200877568)”. Het antwoord heeft volgens mij wel een kern van waarheid: “[I think because back then, people with computer had different approach & mindset, struggled with its limitation.](https://twitter.com/pinot/status/1014987031750041602)”.
 
@@ -8,7 +8,7 @@ Waar geen animatie aan te pas is gekomen zijn [deze video’s van kernbomproeven
 
 Iets waar je wat van kunt opsteken is het artikel [Stop met geld weggooien: internetmakelaars zijn goedkoper, sneller én beter](https://decorrespondent.nl/8486/stop-met-geld-weggooien-internetmakelaars-zijn-goedkoper-sneller-en-beter/122667845520-4055243b). De data spreekt voor zich, je kunt veel geld besparen door zelf de bezichtig te doen en de foto’s van je huis te (laten) maken. Het állerbelangrijkste is gewoon dat je huis op Funda te vinden is en dat doet zo’n internetmakelaar uitstekend voor je. Vervolgens brengt je huis nog meer op ook. No-brainer.
 
-[Affinity Designer Debuts on iPad as a Full-Featured Graphic Design Tool](https://www.macstories.net/news/affinity-designer-debuts-on-ipad-as-a-full-featured-graphic-design-tool/). Het is geen app welke ik zal gebruiken maar ik vind de trend van apps die op iOS (bijna) net zoveel kunnen als op de Mac echt geweldig. 
+[Affinity Designer Debuts on iPad as a Full-Featured Graphic Design Tool](https://www.macstories.net/news/affinity-designer-debuts-on-ipad-as-a-full-featured-graphic-design-tool/). Het is geen app welke ik zal gebruiken maar ik vind de trend van apps die op iOS (bijna) net zoveel kunnen als op de Mac echt geweldig.
 
 ### Dingen om te kijken
 

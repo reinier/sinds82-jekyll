@@ -1,6 +1,4 @@
-# 82%
-
-## Fly Tribalism Inspiratie
+# Fly Tribalism Inspiratie
 
 **Fly** — [Jeff Goldblum](https://en.wikipedia.org/wiki/Jeff_Goldblum) weet álles awkward te maken maar niet op een nare manier. Nét er tegenaan, dat wel. Wat een vreemde, unieke en fijne vent is het ook, zeker als hij [gaat koken met een speciale gast](https://www.youtube.com/watch?v=WgLSXLs5ZYc&feature=share). En na het zien van [het verloop van de carrière van Goldblum](https://www.youtube.com/watch?v=py9lrUq7cOU&feature=share) ben ik erachter dat ik nog wat films moet gaan (her)kijken. En als je in Londen bent, ga dan eens naar [dit enorme beeld van hem in zijn rol als Dr. Ian Malcolm](https://www.travelandleisure.com/travel-news/jeff-goldblum-statue-london). Net zo awkward als hijzelf.
 

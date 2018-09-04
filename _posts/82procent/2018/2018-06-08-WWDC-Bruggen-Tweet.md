@@ -1,4 +1,4 @@
-# 82% WWDC Bruggen Tweet
+# WWDC Bruggen Tweet
 
 **WWDC** — Het was weer tijd voor [de WWDC](https://developer.apple.com/wwdc/) (Apple’s developers conference) deze week. [Ik mocht aanschuiven bij een live sessie van Fast Moving Targets in Tuschinski](https://www.instagram.com/reinierladan/?hl=nl) en het was wat mij betreft een geslaagde avond. De WWDC zelf was wat opgeblazen voor mijn gevoel. Er zijn een hoop mooie nieuwe dingen gepresenteerd en vooral het feit dat ze [oudere telefoons sneller gaan maken met iOS 12](https://motherboard.vice.com/en_us/article/j5kd7x/iphone-slow-planned-obsolescence-ios-12-wwdc) waardeer ik erg. Toch bleven de grote stappen (zoals ze die bijvoorbeeld vorig jaar voor de iPad maakte) uit. Mijn hoop is nu gevestigd op de kwaliteit van iOS 12 want met iOS 11 ging het echt niet altijd lekker het eerste half jaar. [In de nieuwste aflevering van de Appels en Peren Show hebben we het hier ook over](http://appelsenperenshow.nl/aflevering/2018/6/7/156-kanye-koekoek-hero-butterfly-4-uur-op-dinsdag). We hadden het ook over een Raspberry Pi in een NES cartridge stoppen en brutalist (web)design.
 
