@@ -36,12 +36,21 @@ feed:
   path: feed/index.xml
 
 titles_from_headings:
+  enabled:     true
+  collections: true
   strip_title: true
 
 # Theme Tale config
 theme:      tale
 permalink:  /:year/:month/:day/:title
 paginate:   5
+
+defaults:
+  -
+    scope:
+      path: "_posts/82procent" # an empty string here means all files in the project
+    values:
+      categories: "nieuwsbrief"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

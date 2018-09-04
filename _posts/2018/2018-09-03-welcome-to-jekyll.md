@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "Een nieuw begin"
-date:   2018-09-04 10:21:50 +0200
 categories: website
 ---
+
+# Een nieuw begin
+
 Sinds '82 bestaat al zeker sinds 2011 en in die tijd draaide het vrolijk en blij op Wordpress. Maar voor een simpel blog is zoiets als Wordpress overkill en ik kom er nu achter dat het migreren van Wordpress naar een ander systeem best wel zuigt. Vandaar dat het tijd is voor een nieuwe start en een nieuw blogsysteem. Als het goed is ben je als rss abonnee gewoon over naar het nieuwe systeem dus daar hoef je verder niks aan te doen. Als je het archief in wilt van Sinds '82 dan moet je naar archief20112018.sinds82.nl
 
 Ik heb met terugwerkende kracht wat nieuwsbrieven online gezet maar voor het complete archief kun je op [archief20112018.sinds82.nl](https://archief20112018.sinds82.nl) kijken.
