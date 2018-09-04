@@ -43,7 +43,7 @@ titles_from_headings:
 # Theme Tale config
 theme:      tale
 permalink:  /:year/:month/:day/:title
-paginate:   5
+paginate:   10
 
 defaults:
   -
