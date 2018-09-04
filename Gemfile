@@ -30,3 +30,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Theme: Tale
 gem "tale"
+
+# Plugin: no frontmatter & default layout & title from heading
+gem 'jekyll-optional-front-matter'
+gem 'jekyll-default-layout'
+gem 'jekyll-titles-from-headings'

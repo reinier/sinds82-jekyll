@@ -28,13 +28,19 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 
 feed:
   path: feed/index.xml
 
+titles_from_headings:
+  strip_title: true
+
 # Theme Tale config
 theme:      tale
-permalink:  /:year-:month-:day/:title
+permalink:  /:year/:month/:day/:title
 paginate:   5
 
 # Exclude from processing.
