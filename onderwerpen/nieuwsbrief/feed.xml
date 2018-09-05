@@ -7,13 +7,13 @@
 >
 	<channel>
 		<title>Latest newsletter</title>
-		<description>Posts categorized as 'nieuwsbrief' to be used by Mailchimp</description>
+		<description>Posts categorized as 'nieuwsbrief'</description>
 		<sy:updatePeriod>daily</sy:updatePeriod>
 		<sy:updateFrequency>4</sy:updateFrequency>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
 		<lastBuildDate>{% for post in site.categories.nieuwsbrief limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
-		{% assign feed_items = 1 %}
+		{% assign feed_items = 10 %}
 		{% for post in site.categories.nieuwsbrief limit:feed_items %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>

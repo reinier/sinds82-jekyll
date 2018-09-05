@@ -11,3 +11,5 @@ Ik ontwerp — en verbeter bestaande ontwerpen van — websites en apps. <strong
 Meer over mijn zakelijke kant op [LinkedIN](http://www.linkedin.com/in/reinierladan) of op mijn freelance-info website [reinierladan.nl](http://reinierladan.nl).
 
 Verder doe ik een periodiek terugkerende podcast genaamd [De Appels en Peren Show](http://appelsenperenshow.nl/) met Wietse Hage over Apple, technologie, gadgets en alles wat er maar bij komt kijken.
+
+ Ik heb met terugwerkende kracht wat nieuwsbrieven online gezet _in deze versie van het blog_ maar voor het complete archief van Sinds '82 kun je op [2011-2018.sinds82.nl](https://2011-2018.sinds82.nl) kijken.
