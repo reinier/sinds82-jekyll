@@ -20,7 +20,7 @@ author_website: https://reinierladan.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Een blog, een nieuwsbrief, een Oompa Loompa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sinds82-jekyll.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sinds82.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: reinier
 # github_username:  reinier
 
