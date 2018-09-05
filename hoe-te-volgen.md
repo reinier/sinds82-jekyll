@@ -9,7 +9,7 @@ De 82% artikelen verschijnen wekelijks in de 82% nieuwsbrief. Ze komen mogelijk 
 Als je dit complete blog wilt volgen kun je je het beste op een van de RSS feeds abonneren. Er zijn er op het moment twee die geschikt zijn voor lezers met een RSS reader dienst. Zelf gebruik ik hiervoor [Feedly](http://feedly.com) in combinatie met [Reeder op Mac en iOS](http://reederapp.com).
 
 - [Sinds '82 feed met alle posts](https://sinds82.nl/feed/)
-- [Sinds '82 feed met alleen de 82% nieuwsbrieven](https://sinds82.nl/feed/nieuwsbrieven/)
+- [Sinds '82 feed met alleen de 82% nieuwsbrieven](https://sinds82.nl/onderwerpen/nieuwsbrief/feed/)
 
 ## Social media
 
