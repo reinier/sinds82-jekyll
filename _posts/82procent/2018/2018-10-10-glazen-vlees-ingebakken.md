@@ -12,6 +12,7 @@ Bonus: Wow, deze [trailer voor een film waarin Christian Bale ex vice president 
 
 - [Geraldine Loves Star Wars](https://www.youtube.com/watch?v=HBBwXAPNLr0&feature=youtu.be)
 - [iPhone XS: Why It’s A Whole New Camera](https://blog.halide.cam/iphone-xs-why-its-a-whole-new-camera-ddf9780d714c)
+- [Startup Cost](https://www.startupcosts.co/)
 - [Remembering Apollo 8’s Iconic Earthrise Photo](https://kottke.org/18/10/remembering-apollo-8s-iconic-earthrise-photo)
 - [Ask HN: Did reading HN bring anything valuable into your life?](https://news.ycombinator.com/item?id=18151061)
 - [Paper Signals: A Voice Experiment](https://papersignals.withgoogle.com/)
