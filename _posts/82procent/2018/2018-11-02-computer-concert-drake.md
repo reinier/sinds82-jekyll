@@ -1,6 +1,6 @@
 # Computer Concert Drake
 
-[Deze week schreef ik direct na het Apple event mijn gedachte op over de nieuwe iPad](https://sinds82.nl/2018/10/30/ipad-is-een-computer) want ik denk dat steeds meer mensen gaan inzien wat Apple zelf al jaren roept: de iPad is echt een prima _computer_. Hier vind je nog meer goede artikelen en videos over de nieuwe Apple spulletjes:
+[Deze week schreef ik direct na het Apple event mijn gedachte op over de nieuwe iPad](https://sinds82.nl/2018/10/30/ipad-is-een-computer) want ik denk dat steeds meer mensen gaan inzien wat Apple zelf al jaren roept: de iPad is echt een prima _computer_. Hier vind je nog meer fijne artikelen en videos over de nieuwe Apple spulletjes:
 
 - [Apple Event October 30 Roundup: All the Little Things](https://www.macstories.net/news/october-30-roundup-all-the-little-things/)
 - [Brooklyn event impressions: Love for the Mac](https://sixcolors.com/post/2018/10/brooklyn-event-impressions-love-for-the-mac/)
