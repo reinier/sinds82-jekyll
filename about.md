@@ -4,7 +4,7 @@ Sinds '82 is een weblog geschreven door Reinier Ladan. Hij houdt er niet van om 
 
 Om verwarring te voorkomen, ik ben de Reinier Ladan geboren in 1982 — vandaar de naam, Sinds '82. Mijn vader — en zijn vader, en zijn vader — heet(te) namelijk precies hetzelfde.
 
-Dit weblog is een persoonlijke verzameling van links en schrijfsels naar en over technologie, innovatie, ontwerp, Apple, popcultuur, media, films, muziek, Het Internet en kantklossen. [Ik ben in het dagelijkse leven freelance interactie- en interfaceontwerper](http://reinierladan.nl). Daarnaast schrijf ik nog weleens wat HTML, CSS, JavaScript en PHP maar repareer geen computers en los geen netwerkproblemen op.
+Dit weblog is een persoonlijke verzameling van links en schrijfsels naar en over technologie, innovatie, ontwerp, Apple, popcultuur, media, films, muziek, Het Internet en kantklossen. **Kortom: internetcuriosa.** [Ik ben in het dagelijkse leven freelance interactie- en interfaceontwerper](http://reinierladan.nl). Daarnaast schrijf ik nog weleens wat HTML, CSS, JavaScript en PHP maar repareer geen computers en los geen netwerkproblemen op.
 
 Ik ontwerp — en verbeter bestaande ontwerpen van — websites en apps. <strong>Sinds 2000 ben ik bezig met ondernemen en werk ik aan grote projecten voor o.a. de NOS, RTL, de Nederlandse Publieke Omroep, Schiphol, NRC Media en Sanoma.</strong> Naast dat ik al lange tijd in het vak zit heb ik ook een Bachelor in 'Communicatie- en Multimediadesign' en heb ik veel ervaring met programmeren en het in elkaar hacken van prototypes. Hierdoor ben ik goed in staat te 'ontwerpen in de browser' zodat ontwerpproces en bouwproces in elkaar gevlochten kunnen worden.
 
