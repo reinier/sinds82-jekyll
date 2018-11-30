@@ -38,18 +38,18 @@ Ik weet niet wat ik zou moeten zonder mijn password manager 1Password. Waarschij
 
 Wil je ook je drie tools delen die je werk leuker, efficiënter of bijvoorbeeld indrukwekkender maken? [Geef ze dan hier door](https://goo.gl/forms/C5J2VoBlxJKR9Ikw2) en voor je het weet sta je in de 82% nieuwsbrief.
 
+### Instagram van de week
+
+![Tekening van een futuristische stad](https://sinds82.nl/images/insta-jaime-jasso.jpg)
+
+[Bron: @jaime.jasso](https://www.instagram.com/p/BpTi6jXg0tm/)
+
 ### Oproepjes
 
 Oproepjes zijn betaalde advertenties waardoor de schoorsteen blijft roken op het 82% hoofdkantoor. Gebruik ze om je product of dienst te promoten of als je iets ander wilt laat weten aan _de intelligente en geïnteresseerde lezers van de 82% nieuwsbrief_.
 
 - [Plaats zelf een oproepje, nu tijdelijk voor een actieprijsje](https://goo.gl/forms/4GipL48Y8I2JwRKl2)
 - Volgende week de eerste oproepjes!
-
-### Instagram van de week
-
-![Tekening van een futuristische stad](https://sinds82.nl/images/insta-jaime-jasso.jpg)
-
-[Bron: @jaime.jasso](https://www.instagram.com/p/BpTi6jXg0tm/)
 
 ### OH op Twitter
 
