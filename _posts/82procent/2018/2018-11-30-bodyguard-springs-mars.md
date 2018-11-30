@@ -14,7 +14,7 @@ Wat een vet verhaal van iemand die de visuele stijl van The Incredibles 2 mocht 
 
 Of je hiermee ‘design school’ kunt overslaan weet ik niet maar [de website Degreeless Design heeft je een waardevolle collectie links](https://www.degreeless.design) naar wat je allemaal moet weten om een goede designer te worden. Fijn voor designers en non-designers om bij elkaar te hebben. [En we zijn weer op Mars](https://www.jpl.nasa.gov/news/news.php?feature=7294)! Superfijn voor de entertainment ervan alleen al en [we leren er ook echt een hoop met nieuwe onderzoeksmethodes](https://youtu.be/u3FB2SuKFfI). Maar voor je het weet komen we [door alle ruimtepuin niet eens meer van de aarde af](https://youtu.be/yS1ibDImAYU)…
 
-## De drie tools van Peter van Grieken
+### De drie tools van Peter van Grieken
 
 ![Foto van Peter van Grieken](https://sinds82.nl/images/peter-van-grieken.png)
 
@@ -22,42 +22,42 @@ Of je hiermee ‘design school’ kunt overslaan weet ik niet maar [de website D
 
 Meer over [Peter op Twitter @petervangrieken](https://twitter.com/petervangrieken)
 
-### [Harvest](https://www.getharvest.com)
+#### [Harvest](https://www.getharvest.com)
 
 Ik gebruik Harvest om bij te houden hoeveel ik aan verschillende projecten werk. Zodra ik aan een activiteit begin, start ik de menubar applicatie en aan het eind van de maand genereert Harvest vanzelf een factuur voor me die ik zelfs automatisch naar mijn klanten kan laten versturen.
 
-### [Netlify](http://netlify.com/)
+#### [Netlify](http://netlify.com/)
 
 Netlify is het afgelopen jaar mijn go to dienst geworden voor (static file) hosting. Je kunt snel en eenvoudig een site aanmaken en die koppelen aan een git repository. Op die manier kan ons hele team op een openbare url meekijken naar de voortgang van een project. En het is ook nog eens gratis!
 
-### [1Password](https://1password.com)
+#### [1Password](https://1password.com)
 
 Ik weet niet wat ik zou moeten zonder mijn password manager 1Password. Waarschijnlijk zou ik dan mijn wachtwoorden moeten copy-pasten uit een encrypted bestand dat ik ergens bewaar. Of erger nog: overal hetzelfde wachtwoord gebruiken.
 
-### Ook je drie tools delen?
+#### Ook je drie tools delen?
 
 Wil je ook je drie tools delen die je werk leuker, efficiënter of bijvoorbeeld indrukwekkender maken? [Geef ze dan hier door](https://goo.gl/forms/C5J2VoBlxJKR9Ikw2) en voor je het weet sta je in de 82% nieuwsbrief.
 
-## Oproepjes
+### Oproepjes
 
 Oproepjes zijn betaalde advertenties waardoor de schoorsteen blijft roken op het 82% hoofdkantoor. Gebruik ze om je product of dienst te promoten of als je iets ander wilt laat weten aan _de intelligente en geïnteresseerde lezers van de 82% nieuwsbrief_.
 
 - [Plaats zelf een oproepje, nu tijdelijk voor een actieprijsje](https://goo.gl/forms/4GipL48Y8I2JwRKl2)
 - Volgende week de eerste oproepjes!
 
-## Instagram van de week
+### Instagram van de week
 
 ![Tekening van een futuristische stad](https://sinds82.nl/images/insta-jaime-jasso.jpg)
 
 [Bron: @jaime.jasso](https://www.instagram.com/p/BpTi6jXg0tm/)
 
-## OH op Twitter
+### OH op Twitter
 
 > “I don’t always agree with...” ANYONE. Not writers on the internet. Not friends. Not my wife. NOT EVEN MYSELF. Seriously, you don’t need to elevate yourself as SKEPTICAL BEING™️ every time you link to a piece written on the internet.
 
 [@dhh, 23 nov. 2018](https://mobile.twitter.com/dhh/status/1066028126151434240)
 
-## Ook nog interessant
+### Ook nog interessant
 
 - [Castro is now part of Tiny](http://blog.supertop.co/post/180424864667/castro-is-now-part-of-tiny)
 - [Disney is turning the original Star Wars movies into animated shorts for children](https://www.theverge.com/2018/11/28/18116541/star-wars-galaxy-of-adventures-kids-disney-youtube-animated-shorts)
