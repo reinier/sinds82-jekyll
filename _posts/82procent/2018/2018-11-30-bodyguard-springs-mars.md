@@ -2,8 +2,6 @@
 
 Hi, Reinier hier,
 
-Huidige stemming: 😒
-
 [De serie Bodyguard](https://www.imdb.com/title/tt7493974/) (niet te verwarren met [The Bodyguard waarin Whitney Houston zit](https://www.imdb.com/title/tt0103855/)) is een prima voorbeeld van hoe je een uitstekende serie om zeep kunt helpen in de laatste paar minuten van de laatste aflevering (niet te verwarren met [Lost want die had daar nog een heel seizoen voor nodig](https://en.wikipedia.org/wiki/Lost_(TV_series))). Bodyguard is nog steeds het bekijken waard maar die laatste paar minuten waren echt belachelijk ongeloofwaardig en totaal overbodig. Ik ben die minuten uit m’n hoofd aan het wissen en zelf een ander einde aan het fabriceren (niet te verwarren met de film [Eternal Sunshine of the Spotless Mind](https://www.imdb.com/title/tt0338013/)…). Kom je me tegen en wil je het over de serie hebben, prima, maar tegen die tijd heb ik een ander beeld bij het einde dan jij. Waar ik ook een ander beeld van had: Mad Max Fury Road. Je zou denken dat de film vol zit met digitale effecten maar [deze video laat zien dat een groot gedeelte van de film echt is](https://youtu.be/dfm4gvxNW_o).
 
 🦸‍♀️
