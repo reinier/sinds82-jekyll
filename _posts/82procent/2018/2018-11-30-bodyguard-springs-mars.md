@@ -14,12 +14,6 @@ Wat een vet verhaal van iemand die de visuele stijl van The Incredibles 2 mocht 
 
 Of je hiermee ‘design school’ kunt overslaan weet ik niet maar [de website Degreeless Design heeft je een waardevolle collectie links](https://www.degreeless.design) naar wat je allemaal moet weten om een goede designer te worden. Fijn voor designers en non-designers om bij elkaar te hebben. [En we zijn weer op Mars](https://www.jpl.nasa.gov/news/news.php?feature=7294)! Superfijn voor de entertainment ervan alleen al en [we leren er ook echt een hoop met nieuwe onderzoeksmethodes](https://youtu.be/u3FB2SuKFfI). Maar voor je het weet komen we [door alle ruimtepuin niet eens meer van de aarde af](https://youtu.be/yS1ibDImAYU)…
 
-## Instagram van de week
-
-![Tekening van een futuristische stad](https://sinds82.nl/images/insta-jaime-jasso.jpg)
-
-[Bron: @jaime.jasso](https://www.instagram.com/p/BpTi6jXg0tm/)
-
 ## De drie tools van Peter van Grieken
 
 ![Foto van Peter van Grieken](https://sinds82.nl/images/peter-van-grieken.png)
@@ -50,6 +44,12 @@ Oproepjes zijn betaalde advertenties waardoor de schoorsteen blijft roken op het
 
 - [Plaats zelf een oproepje, nu tijdelijk voor een actieprijsje](https://goo.gl/forms/4GipL48Y8I2JwRKl2)
 - Volgende week de eerste oproepjes!
+
+## Instagram van de week
+
+![Tekening van een futuristische stad](https://sinds82.nl/images/insta-jaime-jasso.jpg)
+
+[Bron: @jaime.jasso](https://www.instagram.com/p/BpTi6jXg0tm/)
 
 ## OH op Twitter
 
