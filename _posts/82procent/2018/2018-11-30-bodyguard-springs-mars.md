@@ -48,7 +48,7 @@ Wil je ook je drie tools delen die je werk leuker, efficiënter of bijvoorbeeld 
 
 Oproepjes zijn betaalde advertenties waardoor de schoorsteen blijft roken op het 82% hoofdkantoor. Gebruik ze om je product of dienst te promoten of als je iets ander wilt laat weten aan _de intelligente en geïnteresseerde lezers van de 82% nieuwsbrief_.
 
-- [Plaats zelf een oproepje, nu tijdelijk voor een actieprijsje](https://goo.gl/forms/4GipL48Y8I2JwRKl2)
+- [Plaats zelf een oproepje, nu tijdelijk voor een actieprijsje](https://forms.82procent.nl)
 - Volgende week de eerste oproepjes!
 
 ### OH op Twitter
