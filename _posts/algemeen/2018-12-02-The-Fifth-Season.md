@@ -2,7 +2,7 @@
 
 ![Broken Earth trilogy boeken](https://sinds82.nl/images/broken-earth-trilogy.jpg)
 
-Als een recent geschreven fantasyboek een hoge rating op [Goodreads](https://goodreads.com) krijgt dan markeer ik die daar vaak als ‘want to read’. Komt het boek vervolgens ergens naar voren in een podcast of een artikel dan wordt er een tellertje in m’n hoofd verhoogd. Als het dan vervolgens tijd is om aan een nieuw boek te beginnen dan borrelt zo’n boek vanzelf naar boven.
+Als een recent geschreven fantasyboek een hoge rating op [Goodreads](https://goodreads.com) krijgt dan markeer ik die daar vaak als ‘want to read’. Komt het boek vervolgens ergens naar voren in een podcast of een artikel dan wordt er een tellertje in m’n hoofd verhoogd. Als het dan vervolgens tijd is om aan een nieuw boek te beginnen dan borrelt zo’n boek vanzelf naar boven als ik door m'n 'want to read' lijst loop.
 
 Zo gebeurde het ook met [The Fifth Season van N K Jemisin](https://www.goodreads.com/book/show/19161852-the-fifth-season), het eerste deel in [de trilogie The Broken Earth](https://www.goodreads.com/series/112296-the-broken-earth) en _dit boek is waarom ik Fantasy en Science Fiction lees_. Je krijgt een enorme metafoor voorgeschoteld van zaken die zich in onze maatschappij afspelen maar die in deze mate van heftigheid te absurd zouden zijn als ze zich in onze eigen wereld zouden voltrekken.
 
