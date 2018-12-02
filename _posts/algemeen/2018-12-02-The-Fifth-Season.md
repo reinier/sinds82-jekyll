@@ -1,6 +1,6 @@
 # Boekentip: Broken Earth Trilogy
 
-![Broken Earth trilogy boeken](https://sinds82.nl/images/broken-earth.trilogy.jpg)
+![Broken Earth trilogy boeken](https://sinds82.nl/images/broken-earth-trilogy.jpg)
 
 Als een recent geschreven fantasyboek een hoge rating op [Goodreads](https://goodreads.com) krijgt dan markeer ik die daar vaak als ‘want to read’. Komt het boek vervolgens ergens naar voren in een podcast of een artikel dan wordt er een tellertje in m’n hoofd verhoogd. Als het dan vervolgens tijd is om aan een nieuw boek te beginnen dan borrelt zo’n boek vanzelf naar boven.
 
