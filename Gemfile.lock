@@ -76,7 +76,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.3)
+  jekyll (~> 3.8.4)
   jekyll-default-layout
   jekyll-feed (~> 0.6)
   jekyll-optional-front-matter
