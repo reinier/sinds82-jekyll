@@ -37,7 +37,7 @@ Een gratis Mac-appje die maar één ding doet: met toetscombinaties snel scherme
 
 #### [Paper Mate InkJoy 100ST](https://www.papermate.com/pens/ballpoint/inkjoy-100-st?sku=PMInkJoy100STBlueMedium)
 
-Ik maak digitale dingen, maar mijn aantekeningen doe ik vaak nog gewoon ouderwets in een schriftje. Een goeie pen is dan onontbeerlijk. En deze simpele balpennen zijn superfijn om mee te schrijven. Doen het altijd en schrijven zo soepel als boter.
+Ik maak digitale dingen, maar mijn aantekeningen maak ik vaak nog gewoon ouderwets in een schriftje. Een goeie pen is dan onontbeerlijk. En deze simpele balpennen zijn superfijn om mee te schrijven. Doen het altijd en schrijven heerlijk soepel.
 
 #### Ook je drie tools delen?
 
