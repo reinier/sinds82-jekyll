@@ -28,7 +28,7 @@ En [op iOS zitten we opgesloten in het huidige niet consistente undo-systeem](ht
 
 > Als designer zie ik overal verbeteringen in. Ik ben erg graag buiten, met een rugzak op en een camera in de hand. En ik ben graag onderweg. Bij voorkeur naar bestemmingen waar ik nog niet eerder was.
 
-Meer over [Patrick op Twitter @buxx](https://twitter.com/buxx).
+Meer over [Patrick op Twitter @patrickloonstra](https://twitter.com/patrickloonstra).
 
 #### 🔸 [Notion](https://www.notion.so)
 
