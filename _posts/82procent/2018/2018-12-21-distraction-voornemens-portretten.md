@@ -2,7 +2,7 @@
 
 Hi, Reinier hier,
 
-Waarschuwing: Deze editie bevat enorm veel links om de komende weken mee door te komen. Half januari ben ik er weer!
+*Waarschuwing:* deze editie bevat enorm veel links om de komende weken mee door te komen. Half januari ben ik er weer!
 
 👨‍💻
 
