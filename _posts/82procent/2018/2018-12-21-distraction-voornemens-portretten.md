@@ -33,7 +33,7 @@ Afgelopen vrijdag nam ik met [Rick Pastoor](https://twitter.com/rickpastoor) de 
 
 ![Portret van Daan van Klinken](https://sinds82.nl/images/daan-van-klinken.jpg)
 
-> Ik ben een freelance designer die geëmigreerd is naar Friesland en in de randstad werkt. In het dagelijkst leven ben ik bezig met mijn eigen startup: [Flow Your Money](http://flowyour.money), een tool waarmee je slimme regels voor je bankrekening kunt instellen. En ben ik momenteel aan het werk voor Schiphol, aan de Schiphol app.
+> Ik ben een freelance designer die geëmigreerd is naar Friesland en in de randstad werkt. In het dagelijks leven ben ik bezig met mijn eigen startup: [Flow Your Money](http://flowyour.money), een tool waarmee je slimme regels voor je bankrekening kunt instellen. En ben ik momenteel aan het werk voor Schiphol, aan de Schiphol app.
 
 #### 🔸 [Hazel](https://www.noodlesoft.com/)
 
