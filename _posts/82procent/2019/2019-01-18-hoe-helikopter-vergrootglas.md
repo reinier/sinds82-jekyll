@@ -20,7 +20,7 @@ En deze nieuwsbrief is natuurlijk niet compleet zonder wat te lezen, te luistere
 
 ### De drie tools van [Jeroen Disch](http://www.halfvet.nl)
 
-![](http://sinds82.nl/images/jeroen-disch.jpg "Jeroen Disch")
+![](https://sinds82.nl/images/jeroen-disch.jpg "Jeroen Disch")
 
 Design Lead bij Grrr, in Amsterdam. En ik schrijf elke twee weken [Halfvet](https://www.getrevue.co/profile/halfvet), een nieuwsbrief over branding, UX/UI en typografie.
 
