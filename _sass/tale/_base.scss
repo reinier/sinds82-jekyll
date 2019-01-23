@@ -75,3 +75,11 @@ td {
 p {
   line-height: 1.75em;
 }
+
+a.catalogue-item {
+  text-decoration: none;
+
+  a.catalogue-title {
+    text-decoration: underline;
+  }
+}
