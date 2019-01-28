@@ -8,7 +8,7 @@ Zoals jullie misschien weten ben ik groot fan van de iPad en probeer ik daar zov
 
 [Where is the edge of space?](https://m.youtube.com/watch?v=nILOHp79njQ&feature=youtu.be) is een hele goede vraag om te stellen als je wat meer perspectief wilt krijgen over de aarde, de atmosfeer en de nietigheid van het bestaan. De ruimte is namelijk eng dichtbij als je het op schaal ziet. Maar maakt het eigenlijk uit waar de ruimte begint en waar de atmosfeer ophoudt? Zeker! Voor verschillende instanties is het belangrijk om de benaming goed te hebben. En wie dit allemaal niks interesseert en als een gek door de atmosfeer wil jekkeren met [een roestvrijstalen raket is Elon Musk](https://www.popularmechanics.com/space/rockets/a25953663/elon-musk-spacex-bfr-stainless-steel/). Toch staat de [atmosfeer 1 - 0 voor op Elon zijn raket](https://gizmodo.com/strong-texas-winds-hit-elon-musks-starship-prototype-an-1832003028).
 
-Walmart heeft een dienst waardoor je alleen maar naar de supermarkt hoeft toe te rijden en zo je (reeds bestelde) boodschappen in kan laden. En wat is nou een betere manier om die dienst bekender te maken [dan bekende auto’s in te zetten om boodschappen op te halen](https://www.youtube.com/watch?v=oGrSw7wK4no)? De commercial moet wel een flinke duit hebben gekost denk ik. En over geniale marketing gesproken: [hier zie je hoe ‘de marketing’ consumenten misleid en vlees laat kopen](https://www.youtube.com/watch?v=mKTORFmMycQ) terwijl het verhaal achter vlees natuurlijk niet te verkopen is. _Pas op, schokkende beelden._
+Walmart heeft een dienst waardoor je alleen maar naar de supermarkt hoeft toe te rijden en zo je (reeds bestelde) boodschappen in kan laden. En wat is nou een betere manier om die dienst bekender te maken [dan bekende auto’s in te zetten om boodschappen op te halen](https://www.youtube.com/watch?v=oGrSw7wK4no)? De commercial moet wel een flinke duit hebben gekost denk ik. En over geniale marketing gesproken: [hier zie je hoe ‘de marketing’ consumenten misleidt en vlees laat kopen](https://www.youtube.com/watch?v=mKTORFmMycQ) terwijl het verhaal achter vlees natuurlijk niet te verkopen is. _Pas op, schokkende beelden._
 
 Niet schokkend maar wel erg grappig is [deze strip over diezelfde strip](https://www.gocomics.com/nancy/2019/01/20).
 
@@ -36,14 +36,14 @@ Wil je ook je drie tools delen die je werk leuker, efficiënter of bijvoorbeeld 
 
 #### OH op Twitter
 
-> IMPEACH THIS DICK & MAKE IT QUICK! 
+> IMPEACH THIS DICK & MAKE IT QUICK!
 > > BUILD A WALL & CRIME WILL FALL! — [@realDonaldTrump](https://twitter.com/realDonaldTrump/status/1088058726794387456)
 
 [@OhNoSheTwitnt 14:48 - 23 jan. 2019](https://twitter.com/OhNoSheTwitnt/status/1088070922509144066)
 
 ### Oproepjes
 
-🤷‍♂️ Deze week helaas geen oproepjes. 
+🤷‍♂️ Deze week helaas geen oproepjes.
 
 De betaalde oproepjes zorgen ervoor dat de schoorsteen blijft roken op het 82% hoofdkantoor. Gebruik ze om je product of dienst te promoten of als je iets anders wilt laten weten aan _de meer dan 1000 intelligente en geïnteresseerde lezers van de 82% nieuwsbrief_.
 
