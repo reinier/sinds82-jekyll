@@ -20,7 +20,7 @@ En terwijl iedereen vorige week vol verwondering naar de bloedmaan keek had de o
 
 ### De Drie Tools van [Diederik Hoogenboom](https://mastodon.social/@diederik)
 
-![](http://sinds82.nl/images/diederik-hoogenboom.jpg)
+![](https://sinds82.nl/images/diederik-hoogenboom.jpg)
 
 Ik ben Mac en iOS developer bij [Obvious Matter](https://www.obviousmatter.com). Op dit moment werk ik bij Schiphol aan de mooie Schiphol app.
 
