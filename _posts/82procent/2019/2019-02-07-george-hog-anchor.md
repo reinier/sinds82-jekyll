@@ -4,7 +4,7 @@ Hi, Reinier hier,
 
 Deze e-mail lees je natuurlijk met veel plezier maar er zijn genoeg e-mailtjes waar je helemaal gek van wordt en e-mail is sowieso niet zo fijn om constant mee bezig te zijn. Mocht jij hier ook tegenaan lopen dan is [aflevering 4 van de Hoe Krijg Je Het Voor Elkaar podcast een prima aflevering om te luisteren](https://hoekrijgjehetvoorelkaar.nl/shownotes/2019/02/04/s01e04-grip-op-email.html) want het gaat over het temmen van je e-mail! Raawwrr.
 
-Sinds eind vorig jaar zit deze nieuwsbrief over de 1.000 abonnee’s heen en daar ben ik superblij mee. Toch lijkt het me leuk om meer mensen kennis te laten maken met wat ik wekelijks stuur. **Als er iemand van mijn lezers ideeën heeft over next level growth hacking van deze nieuwsbrief**, mail me op reinier@ladan.email.
+Sinds eind vorig jaar zit deze nieuwsbrief over de 1.000 abonnees heen en daar ben ik superblij mee. Toch lijkt het me leuk om meer mensen kennis te laten maken met wat ik wekelijks stuur. **Als er iemand van mijn lezers ideeën heeft over next level growth hacking van deze nieuwsbrief**, mail me op reinier@ladan.email.
 
 📝
 
