@@ -10,4 +10,4 @@ Maar mensen die vaak hardlopen vinden hardlopen simpel: "je gaat gewoon rennen".
 
 Derek Sivers legt het nog beter uit:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_RofrfSECI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z_RofrfSECI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
