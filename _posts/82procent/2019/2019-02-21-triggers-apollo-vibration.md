@@ -11,7 +11,7 @@ Dit is een greep uit de boeken die ik recent las.
 - [Ancillary Sword (Imperial Radch deel 2)](https://www.goodreads.com/book/show/21422698-ancillary-sword), 4 uit 5 sterren. Een klein verhaal in opvolging van een eerste deel waarin de scope van het verhaal ineens heel erg opgeblazen werd.
 - [Ancillary Mercy (Imperial Radch deel 3)](https://www.goodreads.com/book/show/25400395-ancillary-mercy), 5 uit 5 sterren. Het verhaal blijft net zo klein als in deel 2 maar met uiteindelijk toch een grote impact op de wereld waarin het zich afspeelt. Ik heb heel erg genoten van de karakters in het boek en vooral van een buitenaardse vertaler zonder besef van identiteit.
 - [Grip: Het geheim van slim werken](https://www.goodreads.com/book/show/41183951-grip), 5 uit 5 sterren. Zie ook de [Hoe Krijg Je Het Voor Elkaar podcast](https://hoekrijgjehetvoorelkaar.nl).
-- 4 uit 5 sterren [All Systems Red](https://www.goodreads.com/book/show/33396171-all-systems-red). Wat een fijn klein verhaal over een robot die een eigen wil krijgt. Fijne wereld ook om even in te vertoeven.
+- [All Systems Red](https://www.goodreads.com/book/show/33396171-all-systems-red), 4 uit 5 sterren. Wat een fijn klein verhaal over een robot die een eigen wil krijgt. Fijne wereld ook om even in te vertoeven.
 - [Triggers: Creating Behavior That Lasts](https://www.goodreads.com/book/show/38819563-triggers), 5 uit 5 sterren. Er zijn genoeg boeken om je van slechte gewoontes af te helpen maar dit boek gaat net wat verder heb ik het idee en zet je echt een spiegel voor je neus. In [deze aflevering van de Cortex podcast](https://www.relay.fm/cortex/66) hebben ze het over het boek vanaf minuut 58.
 
 🚀
@@ -48,11 +48,11 @@ Ik gebruik deze app vooral omdat je naadloos kunt switchen tussen luisteren op j
 
 Misschien wel de allerbeste Chrome plugin. Nooit meer rechtsmuisknop, "Afbeelding openen in nieuw tabblad" of middelste muisknop klikken. Nee, gewoon even de muis op een link of kleiner plaatje houden en je ziet gelijk het origineel. Werkt ook voor streamables of gifjes. Echt de enige manier om [r/gifs](https://www.reddit.com/r/gifs/) of [r/nba](https://www.reddit.com/r/nba/) te browsen. 
 
-### Podcasttips
+### Drie crimineel goede podcasts
 
 - [De aflevering ‘The Founder’ van Reply All](https://www.gimletmedia.com/reply-all/the-founder) gaat over een nerd die een fantastische bijdrage heeft geleverd aan de open source wereld maar die op een gegeven moment een verkeerde afslag in zijn leven neemt en een van de grootste wereldwijd opererende crimineel wordt. Bizar verhaal. 
-- In ‘[We gaan het hebben over... taxes, taxes, taxes!](https://decorrespondent.nl/9187/we-gaan-het-hebben-over-taxes-taxes-taxes/132801024840-c7a5edb1)’ hebben Jesse en Rutger het over de verschillende belastingen die we kennen en wat daar achter zit. Deze aflevering is bijna in een achtbaan opgenomen.
 - [Brand in het Landhuis is echt een extreem goed geproduceerde Nederlandse podcast](https://www.nporadio1.nl/podcasts/de-brand-in-het-landhuis) over een vreemde man die zich niet vaak liet zien. Hij bezat een enorm landgoed, er gaan geruchten over gouden munten en kostbare schilderijen en hij ging op een mysterieuze wijze dood.
+- In ‘[We gaan het hebben over... taxes, taxes, taxes!](https://decorrespondent.nl/9187/we-gaan-het-hebben-over-taxes-taxes-taxes/132801024840-c7a5edb1)’ hebben Jesse en Rutger het over de verschillende belastingen die we kennen en wat daar achter zit. Deze aflevering is bijna in een achtbaan opgenomen.
 
 ### En verder…
 
