@@ -2,7 +2,7 @@
 
 Hi, Reinier hier,
 
-Afgelopen maandag ging [aflevering 6 van de ‘Hoe Krijg Je Het Voor Elkaar’ podcast](https://hoekrijgjehetvoorelkaar.nl/shownotes/2019/02/18/S01E06.html) online en nu volgt er een korte pauze van een paar weken zodat ik weer nieuwe afleveringen kan produceren. Ik heb erg veel geleerd van het maken van die eerste 6 afleveringen. In het laatste deel van het seizoen gaan Rick en ik nog wat dieper in op de accountability partner, hebben we het over slim luisteren en bespreken we het verbeteren van jezelf in het algemeen.
+Afgelopen maandag ging [aflevering 6 van de Hoe Krijg Je Het Voor Elkaar podcast](https://hoekrijgjehetvoorelkaar.nl/shownotes/2019/02/18/S01E06.html) online en nu volgt er een korte pauze van een paar weken zodat ik weer nieuwe afleveringen kan produceren. Ik heb erg veel geleerd van het maken van die eerste 6 afleveringen. In het laatste deel van het seizoen gaan Rick en ik nog wat dieper in op de accountability partner, hebben we het over slim luisteren en bespreken we het verbeteren van jezelf in het algemeen.
 
 📚
 
@@ -30,9 +30,9 @@ Altijd al een zesde zintuig willen hebben? [Het kan met een setje magneten in je
 
 Met die magneten kun je dus van alles voelen zoals een leiding in de muur of een aankomende trein onder de grond. En je kunt paperclips oprapen zonder ze te pakken. Wat dit nog meer mogelijk maakt zullen we denk ik pas weten als we dit op grote schaal gaan toepassen in mensen…
 
-### De drie tools van [Jan van den Berg](https://twitter.com/loginn)
+### De Drie Tools van [Jan van den Berg](https://twitter.com/loginn)
 
-![](https://sinds82.nl/images/janvandenberg.jpg)
+![Foto van Jan van den Berg](https://sinds82.nl/images/janvandenberg.jpg)
 
 CTO bij een internet provider (Solcon) met interesse in productiviteit, team optimalisatie en media en tech in het algemeen.
 
