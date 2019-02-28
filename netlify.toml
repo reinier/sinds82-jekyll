@@ -1,7 +1,34 @@
 [[redirects]]
   from = "/feed/"
-  to = "/feed/index.xml"
-  
+  to = "https://reinierladan.nl/feed/index.xml"
+
 [[redirects]]
   from = "/onderwerpen/nieuwsbrief/feed/"
-  to = "/onderwerpen/nieuwsbrief/feed.xml"
+  to = "https://reinierladan.nl/onderwerpen/nieuwsbrief/feed.xml"
+
+[[redirects]]
+  from = "/about"
+  to = "https://reinierladan.nl/over"
+
+[[redirects]]
+  from = "/hoe-te-volgen"
+  to = "https://reinierladan.nl/hoe-te-volgen"
+
+[[redirects]]
+  from = "/images/*"
+  to = "https://reinierladan.nl/assets/drie-tools/:splat"
+
+
+[[redirects]]
+  from = "/*"
+  to = "https://reinierladan.nl/:splat"
+
+# https://sinds82.nl/about
+# https://sinds82.nl/hoe-te-volgen
+# https://sinds82.nl/
+#
+# https://sinds82.nl/2019/02/07/simpel-maar-niet-makkelijk
+# [https://reinierladan.nl/2019/02/07/simpel-maar-niet-makkelijk]
+#
+# https://sinds82.nl/2019/02/21/triggers-apollo-vibration
+# https://sinds82.nl/images/janvandenberg.jpg
